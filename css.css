@@ -1,0 +1,106 @@
+.slika {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #333333;
+}
+.tekst {
+	font-family: Tahoma;
+	font-size: 12px;
+}
+.kamion {
+	background-image: url(images/kamion2.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+.vozni {
+	background-image: url(images/voznipark.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+.tabeladole {
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #CECFD3;
+	margin-bottom: 2px;
+	padding-bottom: 2px;
+}
+
+.crvenitext {
+	font-family: Tahoma;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	color: #D9241D;
+}
+
+
+.road {
+	background-image: url(images/road.jpg);
+	background-repeat: no-repeat;
+	background-position: right center;
+}
+.galerija {
+	background-image: url(images/galerija2.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.sprint {
+	background-image: url(images/sprint.jpg);
+	background-repeat: no-repeat;
+	background-position: right center;
+}
+.slikagore {
+	background-image: url(images/spr_04.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.kombigore {
+	background-image: url(images/spr_03.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+
+a:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #D32719;
+}
+a:visited {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #D32719;
+}
+a:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #CC6633;
+}
+a:active {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #D32719;
+}
+
+.doleshad {
+	background-image: url(images/dolegrad.jpg);
+	background-repeat: repeat-x;
+	height: 16px;
+}
+.footertext {
+	font-family: Tahoma;
+	font-size: 10px;
+}
+
+
+.shadolcrveni {
+	background-image: url(images/spr_24.jpg);
+	background-repeat: repeat-x;
+	background-position: right center;
+}
+
+.shadow {
+	background-image: url(images/gradlijevo.jpg);
+	background-repeat: repeat-y;
+	width: 13px;
+	height: 9px;
+}

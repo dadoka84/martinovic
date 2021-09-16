@@ -1,0 +1,71 @@
+.slika {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #333333;
+}
+.tekst {
+	font-family: Tahoma;
+	font-size: 12px;
+}
+.kamion {
+	background-image: url(images/kamion2.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+
+
+.slikagore {
+	background-image: url(images/spr_04.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.kombigore {
+	background-image: url(images/spr_03.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+
+a:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #D32719;
+}
+a:visited {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #D32719;
+}
+a:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #CC6633;
+}
+a:active {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #D32719;
+}
+
+.doleshad {
+	background-image: url(images/dolegrad.jpg);
+	background-repeat: repeat-x;
+	height: 16px;
+}
+.footertext {
+	font-family: Tahoma;
+	font-size: 10px;
+}
+
+
+.shadolcrveni {
+	background-image: url(images/spr_24.jpg);
+	background-repeat: repeat-x;
+	background-position: right center;
+}
+
+.shadow {
+	background-image: url(images/gradlijevo.jpg);
+	background-repeat: repeat-y;
+	width: 13px;
+	height: 9px;
+}
